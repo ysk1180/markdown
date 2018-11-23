@@ -1,6 +1,6 @@
 <template>
   <div class="editor">
-    <h1>エディター画面</h1>
+    <h1>マークダウンメモ</h1>
     <span>{{ user.displayName }}</span>
     <button @click="logout">ログアウト</button>
     <div class="editorWrapper">
